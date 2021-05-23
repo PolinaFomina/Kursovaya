@@ -1,0 +1,3574 @@
+{
+  "listOfShips": [
+    {
+      "name": "ship6",
+      "cargoType": "LIQUID",
+      "countOfCargo": 69153.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 1,
+          "hour": 7,
+          "minute": 53,
+          "second": 13
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 2,
+        "hours": 9,
+        "minutes": 38,
+        "seconds": 0
+      },
+      "arrivingDelay": 7,
+      "unloadingDelay": 791
+    },
+    {
+      "name": "ship3",
+      "cargoType": "BULK",
+      "countOfCargo": 8673.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 2,
+          "hour": 10,
+          "minute": 46,
+          "second": 55
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 1,
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 0
+      },
+      "arrivingDelay": 2,
+      "unloadingDelay": 1406
+    },
+    {
+      "name": "ship59",
+      "cargoType": "LIQUID",
+      "countOfCargo": 293944.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 2,
+          "hour": 11,
+          "minute": 13,
+          "second": 37
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 10,
+        "hours": 4,
+        "minutes": 58,
+        "seconds": 0
+      },
+      "arrivingDelay": 7,
+      "unloadingDelay": 747
+    },
+    {
+      "name": "ship19",
+      "cargoType": "BULK",
+      "countOfCargo": 6426.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 3,
+          "hour": 15,
+          "minute": 17,
+          "second": 19
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 17,
+        "minutes": 51,
+        "seconds": 0
+      },
+      "arrivingDelay": -5,
+      "unloadingDelay": 605
+    },
+    {
+      "name": "ship61",
+      "cargoType": "LIQUID",
+      "countOfCargo": 139137.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 4,
+          "hour": 3,
+          "minute": 11,
+          "second": 12
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 4,
+        "hours": 19,
+        "minutes": 57,
+        "seconds": 0
+      },
+      "arrivingDelay": 2,
+      "unloadingDelay": 1392
+    },
+    {
+      "name": "ship5",
+      "cargoType": "LIQUID",
+      "countOfCargo": 235265.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 4,
+          "hour": 12,
+          "minute": 54,
+          "second": 44
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 8,
+        "hours": 4,
+        "minutes": 4,
+        "seconds": 0
+      },
+      "arrivingDelay": -5,
+      "unloadingDelay": 1109
+    },
+    {
+      "name": "ship1",
+      "cargoType": "LIQUID",
+      "countOfCargo": 264304.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 5,
+          "hour": 5,
+          "minute": 23,
+          "second": 43
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 9,
+        "hours": 4,
+        "minutes": 16,
+        "seconds": 0
+      },
+      "arrivingDelay": -3,
+      "unloadingDelay": 1319
+    },
+    {
+      "name": "ship51",
+      "cargoType": "BULK",
+      "countOfCargo": 8685.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 5,
+          "hour": 18,
+          "minute": 20,
+          "second": 17
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 1,
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 0
+      },
+      "arrivingDelay": 0,
+      "unloadingDelay": 1260
+    },
+    {
+      "name": "ship21",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 3743.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 6,
+          "hour": 4,
+          "minute": 15,
+          "second": 4
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 1,
+        "hours": 7,
+        "minutes": 12,
+        "seconds": 0
+      },
+      "arrivingDelay": -3,
+      "unloadingDelay": 783
+    },
+    {
+      "name": "ship55",
+      "cargoType": "LIQUID",
+      "countOfCargo": 390679.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 6,
+          "hour": 7,
+          "minute": 9,
+          "second": 30
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 13,
+        "hours": 13,
+        "minutes": 34,
+        "seconds": 0
+      },
+      "arrivingDelay": 4,
+      "unloadingDelay": 721
+    },
+    {
+      "name": "ship44",
+      "cargoType": "BULK",
+      "countOfCargo": 3081.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 6,
+          "hour": 9,
+          "minute": 51,
+          "second": 5
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 8,
+        "minutes": 34,
+        "seconds": 0
+      },
+      "arrivingDelay": 5,
+      "unloadingDelay": 1387
+    },
+    {
+      "name": "ship24",
+      "cargoType": "LIQUID",
+      "countOfCargo": 73063.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 6,
+          "hour": 10,
+          "minute": 43,
+          "second": 27
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 2,
+        "hours": 12,
+        "minutes": 54,
+        "seconds": 0
+      },
+      "arrivingDelay": 7,
+      "unloadingDelay": 1180
+    },
+    {
+      "name": "ship49",
+      "cargoType": "BULK",
+      "countOfCargo": 1132.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 6,
+          "hour": 19,
+          "minute": 0,
+          "second": 51
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 3,
+        "minutes": 9,
+        "seconds": 0
+      },
+      "arrivingDelay": -3,
+      "unloadingDelay": 518
+    },
+    {
+      "name": "ship25",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 7148.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 8,
+          "hour": 2,
+          "minute": 8,
+          "second": 38
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 2,
+        "hours": 11,
+        "minutes": 34,
+        "seconds": 0
+      },
+      "arrivingDelay": 0,
+      "unloadingDelay": 676
+    },
+    {
+      "name": "ship8",
+      "cargoType": "LIQUID",
+      "countOfCargo": 296748.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 8,
+          "hour": 2,
+          "minute": 28,
+          "second": 47
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 10,
+        "hours": 7,
+        "minutes": 18,
+        "seconds": 0
+      },
+      "arrivingDelay": 0,
+      "unloadingDelay": 539
+    },
+    {
+      "name": "ship32",
+      "cargoType": "LIQUID",
+      "countOfCargo": 201529.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 8,
+          "hour": 7,
+          "minute": 9,
+          "second": 31
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 6,
+        "hours": 23,
+        "minutes": 57,
+        "seconds": 0
+      },
+      "arrivingDelay": -5,
+      "unloadingDelay": 1067
+    },
+    {
+      "name": "ship68",
+      "cargoType": "LIQUID",
+      "countOfCargo": 247353.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 8,
+          "hour": 10,
+          "minute": 17,
+          "second": 10
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 8,
+        "hours": 14,
+        "minutes": 8,
+        "seconds": 0
+      },
+      "arrivingDelay": 0,
+      "unloadingDelay": 935
+    },
+    {
+      "name": "ship12",
+      "cargoType": "LIQUID",
+      "countOfCargo": 368584.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 9,
+          "hour": 6,
+          "minute": 3,
+          "second": 39
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 12,
+        "hours": 19,
+        "minutes": 10,
+        "seconds": 0
+      },
+      "arrivingDelay": -2,
+      "unloadingDelay": 1331
+    },
+    {
+      "name": "ship64",
+      "cargoType": "BULK",
+      "countOfCargo": 2551.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 10,
+          "hour": 2,
+          "minute": 14,
+          "second": 35
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 7,
+        "minutes": 6,
+        "seconds": 0
+      },
+      "arrivingDelay": -3,
+      "unloadingDelay": 1105
+    },
+    {
+      "name": "ship41",
+      "cargoType": "LIQUID",
+      "countOfCargo": 290032.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 10,
+          "hour": 3,
+          "minute": 31,
+          "second": 37
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 10,
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 0
+      },
+      "arrivingDelay": 5,
+      "unloadingDelay": 360
+    },
+    {
+      "name": "ship54",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 342.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 11,
+          "hour": 6,
+          "minute": 56,
+          "second": 16
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 2,
+        "minutes": 51,
+        "seconds": 0
+      },
+      "arrivingDelay": 1,
+      "unloadingDelay": 765
+    },
+    {
+      "name": "ship10",
+      "cargoType": "BULK",
+      "countOfCargo": 3375.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 11,
+          "hour": 11,
+          "minute": 52,
+          "second": 44
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 9,
+        "minutes": 23,
+        "seconds": 0
+      },
+      "arrivingDelay": -3,
+      "unloadingDelay": 810
+    },
+    {
+      "name": "ship33",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 5304.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 11,
+          "hour": 19,
+          "minute": 48,
+          "second": 32
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 1,
+        "hours": 20,
+        "minutes": 12,
+        "seconds": 0
+      },
+      "arrivingDelay": 2,
+      "unloadingDelay": 508
+    },
+    {
+      "name": "ship4",
+      "cargoType": "LIQUID",
+      "countOfCargo": 141681.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 12,
+          "hour": 19,
+          "minute": 8,
+          "second": 54
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 4,
+        "hours": 22,
+        "minutes": 5,
+        "seconds": 0
+      },
+      "arrivingDelay": -6,
+      "unloadingDelay": 1118
+    },
+    {
+      "name": "ship14",
+      "cargoType": "LIQUID",
+      "countOfCargo": 317929.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 13,
+          "hour": 12,
+          "minute": 43,
+          "second": 13
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 11,
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 0
+      },
+      "arrivingDelay": 2,
+      "unloadingDelay": 896
+    },
+    {
+      "name": "ship45",
+      "cargoType": "BULK",
+      "countOfCargo": 6686.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 13,
+          "hour": 14,
+          "minute": 6,
+          "second": 31
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 18,
+        "minutes": 35,
+        "seconds": 0
+      },
+      "arrivingDelay": -3,
+      "unloadingDelay": 1413
+    },
+    {
+      "name": "ship13",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 17431.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 13,
+          "hour": 14,
+          "minute": 9,
+          "second": 39
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 6,
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 0
+      },
+      "arrivingDelay": 5,
+      "unloadingDelay": 544
+    },
+    {
+      "name": "ship57",
+      "cargoType": "LIQUID",
+      "countOfCargo": 42174.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 13,
+          "hour": 16,
+          "minute": 54,
+          "second": 34
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 1,
+        "hours": 11,
+        "minutes": 9,
+        "seconds": 0
+      },
+      "arrivingDelay": -4,
+      "unloadingDelay": 499
+    },
+    {
+      "name": "ship15",
+      "cargoType": "BULK",
+      "countOfCargo": 7539.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 14,
+          "hour": 5,
+          "minute": 12,
+          "second": 34
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 20,
+        "minutes": 57,
+        "seconds": 0
+      },
+      "arrivingDelay": -1,
+      "unloadingDelay": 1330
+    },
+    {
+      "name": "ship46",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 16373.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 14,
+          "hour": 7,
+          "minute": 9,
+          "second": 47
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 5,
+        "hours": 16,
+        "minutes": 27,
+        "seconds": 0
+      },
+      "arrivingDelay": -5,
+      "unloadingDelay": 1377
+    },
+    {
+      "name": "ship2",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 8674.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 14,
+          "hour": 12,
+          "minute": 0,
+          "second": 27
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 3,
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 0
+      },
+      "arrivingDelay": 0,
+      "unloadingDelay": 595
+    },
+    {
+      "name": "ship65",
+      "cargoType": "BULK",
+      "countOfCargo": 6342.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 14,
+          "hour": 15,
+          "minute": 58,
+          "second": 53
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 17,
+        "minutes": 37,
+        "seconds": 0
+      },
+      "arrivingDelay": 7,
+      "unloadingDelay": 362
+    },
+    {
+      "name": "ship66",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 2212.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 14,
+          "hour": 20,
+          "minute": 25,
+          "second": 37
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 18,
+        "minutes": 26,
+        "seconds": 0
+      },
+      "arrivingDelay": 5,
+      "unloadingDelay": 608
+    },
+    {
+      "name": "ship0",
+      "cargoType": "BULK",
+      "countOfCargo": 11862.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 14,
+          "hour": 23,
+          "minute": 40,
+          "second": 25
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 1,
+        "hours": 8,
+        "minutes": 57,
+        "seconds": 0
+      },
+      "arrivingDelay": 5,
+      "unloadingDelay": 246
+    },
+    {
+      "name": "ship39",
+      "cargoType": "LIQUID",
+      "countOfCargo": 294979.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 15,
+          "hour": 18,
+          "minute": 21,
+          "second": 22
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 10,
+        "hours": 5,
+        "minutes": 49,
+        "seconds": 0
+      },
+      "arrivingDelay": -6,
+      "unloadingDelay": 627
+    },
+    {
+      "name": "ship7",
+      "cargoType": "LIQUID",
+      "countOfCargo": 392126.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 15,
+          "hour": 23,
+          "minute": 45,
+          "second": 33
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 13,
+        "hours": 14,
+        "minutes": 47,
+        "seconds": 0
+      },
+      "arrivingDelay": -4,
+      "unloadingDelay": 93
+    },
+    {
+      "name": "ship22",
+      "cargoType": "BULK",
+      "countOfCargo": 9546.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 16,
+          "hour": 2,
+          "minute": 56,
+          "second": 14
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 1,
+        "hours": 2,
+        "minutes": 31,
+        "seconds": 0
+      },
+      "arrivingDelay": 4,
+      "unloadingDelay": 927
+    },
+    {
+      "name": "ship43",
+      "cargoType": "LIQUID",
+      "countOfCargo": 174613.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 16,
+          "hour": 3,
+          "minute": 23,
+          "second": 24
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 6,
+        "hours": 1,
+        "minutes": 31,
+        "seconds": 0
+      },
+      "arrivingDelay": -6,
+      "unloadingDelay": 1015
+    },
+    {
+      "name": "ship11",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 6298.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 16,
+          "hour": 6,
+          "minute": 15,
+          "second": 42
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 2,
+        "hours": 4,
+        "minutes": 29,
+        "seconds": 0
+      },
+      "arrivingDelay": 0,
+      "unloadingDelay": 904
+    },
+    {
+      "name": "ship23",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 10212.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 16,
+          "hour": 23,
+          "minute": 42,
+          "second": 1
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 3,
+        "hours": 13,
+        "minutes": 6,
+        "seconds": 0
+      },
+      "arrivingDelay": 6,
+      "unloadingDelay": 418
+    },
+    {
+      "name": "ship16",
+      "cargoType": "BULK",
+      "countOfCargo": 1395.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 17,
+          "hour": 2,
+          "minute": 49,
+          "second": 56
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 3,
+        "minutes": 53,
+        "seconds": 0
+      },
+      "arrivingDelay": -6,
+      "unloadingDelay": 780
+    },
+    {
+      "name": "ship37",
+      "cargoType": "BULK",
+      "countOfCargo": 7657.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 17,
+          "hour": 8,
+          "minute": 41,
+          "second": 50
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 21,
+        "minutes": 17,
+        "seconds": 0
+      },
+      "arrivingDelay": -1,
+      "unloadingDelay": 1039
+    },
+    {
+      "name": "ship18",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 10797.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 17,
+          "hour": 22,
+          "minute": 36,
+          "second": 36
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 3,
+        "hours": 17,
+        "minutes": 59,
+        "seconds": 0
+      },
+      "arrivingDelay": 6,
+      "unloadingDelay": 978
+    },
+    {
+      "name": "ship69",
+      "cargoType": "BULK",
+      "countOfCargo": 8150.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 17,
+          "hour": 22,
+          "minute": 40,
+          "second": 49
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 22,
+        "minutes": 39,
+        "seconds": 0
+      },
+      "arrivingDelay": 2,
+      "unloadingDelay": 1079
+    },
+    {
+      "name": "ship58",
+      "cargoType": "LIQUID",
+      "countOfCargo": 305073.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 18,
+          "hour": 17,
+          "minute": 32,
+          "second": 0
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 10,
+        "hours": 14,
+        "minutes": 14,
+        "seconds": 0
+      },
+      "arrivingDelay": -4,
+      "unloadingDelay": 1070
+    },
+    {
+      "name": "ship53",
+      "cargoType": "LIQUID",
+      "countOfCargo": 221278.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 18,
+          "hour": 17,
+          "minute": 55,
+          "second": 7
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 7,
+        "hours": 16,
+        "minutes": 24,
+        "seconds": 0
+      },
+      "arrivingDelay": -3,
+      "unloadingDelay": 155
+    },
+    {
+      "name": "ship26",
+      "cargoType": "BULK",
+      "countOfCargo": 7981.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 18,
+          "hour": 19,
+          "minute": 40,
+          "second": 57
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 22,
+        "minutes": 11,
+        "seconds": 0
+      },
+      "arrivingDelay": 0,
+      "unloadingDelay": 1192
+    },
+    {
+      "name": "ship29",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 13902.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 18,
+          "hour": 22,
+          "minute": 7,
+          "second": 37
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 4,
+        "hours": 19,
+        "minutes": 51,
+        "seconds": 0
+      },
+      "arrivingDelay": -1,
+      "unloadingDelay": 1275
+    },
+    {
+      "name": "ship42",
+      "cargoType": "BULK",
+      "countOfCargo": 11208.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 19,
+          "hour": 12,
+          "minute": 3,
+          "second": 3
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 1,
+        "hours": 7,
+        "minutes": 8,
+        "seconds": 0
+      },
+      "arrivingDelay": 1,
+      "unloadingDelay": 280
+    },
+    {
+      "name": "ship52",
+      "cargoType": "BULK",
+      "countOfCargo": 7077.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 19,
+          "hour": 16,
+          "minute": 6,
+          "second": 35
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 19,
+        "minutes": 40,
+        "seconds": 0
+      },
+      "arrivingDelay": 5,
+      "unloadingDelay": 1386
+    },
+    {
+      "name": "ship56",
+      "cargoType": "LIQUID",
+      "countOfCargo": 312286.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 20,
+          "hour": 2,
+          "minute": 10,
+          "second": 47
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 10,
+        "hours": 20,
+        "minutes": 15,
+        "seconds": 0
+      },
+      "arrivingDelay": 0,
+      "unloadingDelay": 734
+    },
+    {
+      "name": "ship40",
+      "cargoType": "BULK",
+      "countOfCargo": 3308.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 21,
+          "hour": 11,
+          "minute": 13,
+          "second": 21
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 9,
+        "minutes": 12,
+        "seconds": 0
+      },
+      "arrivingDelay": 0,
+      "unloadingDelay": 187
+    },
+    {
+      "name": "ship9",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 11342.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 21,
+          "hour": 19,
+          "minute": 57,
+          "second": 3
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 3,
+        "hours": 22,
+        "minutes": 31,
+        "seconds": 0
+      },
+      "arrivingDelay": 5,
+      "unloadingDelay": 1234
+    },
+    {
+      "name": "ship35",
+      "cargoType": "BULK",
+      "countOfCargo": 2207.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 23,
+          "hour": 10,
+          "minute": 56,
+          "second": 10
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 6,
+        "minutes": 8,
+        "seconds": 0
+      },
+      "arrivingDelay": 7,
+      "unloadingDelay": 1246
+    },
+    {
+      "name": "ship17",
+      "cargoType": "LIQUID",
+      "countOfCargo": 291214.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 24,
+          "hour": 11,
+          "minute": 37,
+          "second": 56
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 10,
+        "hours": 2,
+        "minutes": 41,
+        "seconds": 0
+      },
+      "arrivingDelay": 4,
+      "unloadingDelay": 1388
+    },
+    {
+      "name": "ship63",
+      "cargoType": "LIQUID",
+      "countOfCargo": 86668.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 24,
+          "hour": 16,
+          "minute": 27,
+          "second": 43
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 3,
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 0
+      },
+      "arrivingDelay": -3,
+      "unloadingDelay": 699
+    },
+    {
+      "name": "ship60",
+      "cargoType": "LIQUID",
+      "countOfCargo": 394974.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 24,
+          "hour": 21,
+          "minute": 27,
+          "second": 45
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 13,
+        "hours": 17,
+        "minutes": 9,
+        "seconds": 0
+      },
+      "arrivingDelay": -2,
+      "unloadingDelay": 582
+    },
+    {
+      "name": "ship30",
+      "cargoType": "LIQUID",
+      "countOfCargo": 278807.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 25,
+          "hour": 5,
+          "minute": 44,
+          "second": 14
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 9,
+        "hours": 16,
+        "minutes": 21,
+        "seconds": 0
+      },
+      "arrivingDelay": -2,
+      "unloadingDelay": 894
+    },
+    {
+      "name": "ship50",
+      "cargoType": "LIQUID",
+      "countOfCargo": 52094.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 25,
+          "hour": 23,
+          "minute": 10,
+          "second": 5
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 1,
+        "hours": 19,
+        "minutes": 25,
+        "seconds": 0
+      },
+      "arrivingDelay": 0,
+      "unloadingDelay": 1412
+    },
+    {
+      "name": "ship31",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 2885.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 26,
+          "hour": 9,
+          "minute": 40,
+          "second": 30
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 1,
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 0
+      },
+      "arrivingDelay": 2,
+      "unloadingDelay": 133
+    },
+    {
+      "name": "ship62",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 7414.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 27,
+          "hour": 12,
+          "minute": 54,
+          "second": 24
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 2,
+        "hours": 13,
+        "minutes": 47,
+        "seconds": 0
+      },
+      "arrivingDelay": 1,
+      "unloadingDelay": 447
+    },
+    {
+      "name": "ship67",
+      "cargoType": "BULK",
+      "countOfCargo": 8391.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 27,
+          "hour": 19,
+          "minute": 25,
+          "second": 50
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 23,
+        "minutes": 19,
+        "seconds": 0
+      },
+      "arrivingDelay": -1,
+      "unloadingDelay": 907
+    },
+    {
+      "name": "ship48",
+      "cargoType": "LIQUID",
+      "countOfCargo": 291155.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 28,
+          "hour": 5,
+          "minute": 17,
+          "second": 37
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 10,
+        "hours": 2,
+        "minutes": 38,
+        "seconds": 0
+      },
+      "arrivingDelay": 0,
+      "unloadingDelay": 14
+    },
+    {
+      "name": "ship36",
+      "cargoType": "LIQUID",
+      "countOfCargo": 375951.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 28,
+          "hour": 8,
+          "minute": 30,
+          "second": 33
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 13,
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 0
+      },
+      "arrivingDelay": -6,
+      "unloadingDelay": 16
+    },
+    {
+      "name": "ship34",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 17515.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 28,
+          "hour": 10,
+          "minute": 47,
+          "second": 41
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 6,
+        "hours": 1,
+        "minutes": 58,
+        "seconds": 0
+      },
+      "arrivingDelay": -3,
+      "unloadingDelay": 625
+    },
+    {
+      "name": "ship27",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 3585.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 28,
+          "hour": 17,
+          "minute": 16,
+          "second": 2
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 1,
+        "hours": 5,
+        "minutes": 53,
+        "seconds": 0
+      },
+      "arrivingDelay": -2,
+      "unloadingDelay": 226
+    },
+    {
+      "name": "ship28",
+      "cargoType": "CONTAINER",
+      "countOfCargo": 8072.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 28,
+          "hour": 17,
+          "minute": 52,
+          "second": 52
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 2,
+        "hours": 19,
+        "minutes": 16,
+        "seconds": 0
+      },
+      "arrivingDelay": -3,
+      "unloadingDelay": 1111
+    },
+    {
+      "name": "ship38",
+      "cargoType": "LIQUID",
+      "countOfCargo": 270982.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 29,
+          "hour": 17,
+          "minute": 9,
+          "second": 50
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 9,
+        "hours": 9,
+        "minutes": 50,
+        "seconds": 0
+      },
+      "arrivingDelay": 0,
+      "unloadingDelay": 1263
+    },
+    {
+      "name": "ship47",
+      "cargoType": "BULK",
+      "countOfCargo": 1928.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 30,
+          "hour": 8,
+          "minute": 2,
+          "second": 2
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 0,
+        "hours": 5,
+        "minutes": 22,
+        "seconds": 0
+      },
+      "arrivingDelay": 2,
+      "unloadingDelay": 736
+    },
+    {
+      "name": "ship20",
+      "cargoType": "BULK",
+      "countOfCargo": 9454.0,
+      "parkingInfo": {
+        "arrivalDate": {
+          "month": 4,
+          "day": 30,
+          "hour": 16,
+          "minute": 35,
+          "second": 59
+        },
+        "waitingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "beginUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        },
+        "unloadingTime": {
+          "months": 0,
+          "days": 0,
+          "hours": 0,
+          "minutes": 0,
+          "seconds": 0
+        },
+        "endUnloadingDate": {
+          "month": 0,
+          "day": 0,
+          "hour": 0,
+          "minute": 0,
+          "second": 0
+        }
+      },
+      "planePeriodOfParking": {
+        "months": 0,
+        "days": 1,
+        "hours": 2,
+        "minutes": 16,
+        "seconds": 0
+      },
+      "arrivingDelay": 6,
+      "unloadingDelay": 79
+    }
+  ]
+}

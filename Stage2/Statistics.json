@@ -1,0 +1,2609 @@
+{
+  "statistic": {
+    "ship6": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 1,
+        "hour": 7,
+        "minute": 53,
+        "second": 13
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 1,
+        "hour": 7,
+        "minute": 53,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 18,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 3,
+        "hour": 1,
+        "minute": 53,
+        "second": 13
+      }
+    },
+    "ship3": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 2,
+        "hour": 10,
+        "minute": 46,
+        "second": 55
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 2,
+        "hour": 10,
+        "minute": 47,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 11,
+        "minutes": 29,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 3,
+        "hour": 22,
+        "minute": 16,
+        "second": 13
+      }
+    },
+    "ship59": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 2,
+        "hour": 11,
+        "minute": 13,
+        "second": 37
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 2,
+        "hour": 11,
+        "minute": 14,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 5,
+        "hours": 14,
+        "minutes": 56,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 8,
+        "hour": 2,
+        "minute": 10,
+        "second": 13
+      }
+    },
+    "ship19": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 3,
+        "hour": 15,
+        "minute": 17,
+        "second": 19
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 54
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 3,
+        "hour": 15,
+        "minute": 18,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 19,
+        "minutes": 1,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 4,
+        "hour": 10,
+        "minute": 19,
+        "second": 13
+      }
+    },
+    "ship61": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 4,
+        "hour": 3,
+        "minute": 11,
+        "second": 12
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 4,
+        "hour": 3,
+        "minute": 11,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 3,
+        "hours": 9,
+        "minutes": 11,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 7,
+        "hour": 12,
+        "minute": 22,
+        "second": 13
+      }
+    },
+    "ship5": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 4,
+        "hour": 12,
+        "minute": 54,
+        "second": 44
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 4,
+        "hour": 12,
+        "minute": 55,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 4,
+        "hours": 20,
+        "minutes": 31,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 9,
+        "hour": 9,
+        "minute": 26,
+        "second": 13
+      }
+    },
+    "ship1": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 5,
+        "hour": 5,
+        "minute": 23,
+        "second": 43
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 5,
+        "hour": 5,
+        "minute": 24,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 5,
+        "hours": 12,
+        "minutes": 7,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 10,
+        "hour": 17,
+        "minute": 31,
+        "second": 13
+      }
+    },
+    "ship51": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 5,
+        "hour": 18,
+        "minute": 20,
+        "second": 17
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 5,
+        "hour": 18,
+        "minute": 21,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 9,
+        "minutes": 4,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 7,
+        "hour": 3,
+        "minute": 25,
+        "second": 13
+      }
+    },
+    "ship21": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 6,
+        "hour": 4,
+        "minute": 15,
+        "second": 4
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 6,
+        "hour": 4,
+        "minute": 15,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 4,
+        "minutes": 39,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 7,
+        "hour": 8,
+        "minute": 54,
+        "second": 13
+      }
+    },
+    "ship49": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 6,
+        "hour": 19,
+        "minute": 0,
+        "second": 51
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 6,
+        "hour": 19,
+        "minute": 1,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 10,
+        "minutes": 13,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 7,
+        "hour": 5,
+        "minute": 14,
+        "second": 13
+      }
+    },
+    "ship55": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 6,
+        "hour": 7,
+        "minute": 9,
+        "second": 30
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 6,
+        "hour": 7,
+        "minute": 10,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 7,
+        "hours": 9,
+        "minutes": 48,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 13,
+        "hour": 16,
+        "minute": 58,
+        "second": 13
+      }
+    },
+    "ship44": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 6,
+        "hour": 9,
+        "minute": 51,
+        "second": 5
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 6,
+        "hour": 9,
+        "minute": 51,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 3,
+        "minutes": 24,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 7,
+        "hour": 13,
+        "minute": 15,
+        "second": 13
+      }
+    },
+    "ship24": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 6,
+        "hour": 10,
+        "minute": 43,
+        "second": 27
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 46
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 6,
+        "hour": 13,
+        "minute": 10,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 2,
+        "hours": 14,
+        "minutes": 24,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 9,
+        "hour": 3,
+        "minute": 34,
+        "second": 13
+      }
+    },
+    "ship25": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 8,
+        "hour": 2,
+        "minute": 8,
+        "second": 38
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 8,
+        "hour": 2,
+        "minute": 9,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 17,
+        "minutes": 3,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 9,
+        "hour": 19,
+        "minute": 12,
+        "second": 13
+      }
+    },
+    "ship8": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 8,
+        "hour": 2,
+        "minute": 28,
+        "second": 47
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 8,
+        "hour": 2,
+        "minute": 29,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 5,
+        "hours": 15,
+        "minutes": 21,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 13,
+        "hour": 17,
+        "minute": 50,
+        "second": 13
+      }
+    },
+    "ship32": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 8,
+        "hour": 7,
+        "minute": 9,
+        "second": 31
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 42
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 8,
+        "hour": 7,
+        "minute": 54,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 4,
+        "hours": 9,
+        "minutes": 17,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 12,
+        "hour": 17,
+        "minute": 11,
+        "second": 13
+      }
+    },
+    "ship68": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 8,
+        "hour": 10,
+        "minute": 17,
+        "second": 10
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 4,
+        "minutes": 41,
+        "seconds": 3
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 8,
+        "hour": 14,
+        "minute": 58,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 5,
+        "hours": 12,
+        "minutes": 56,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 14,
+        "hour": 3,
+        "minute": 54,
+        "second": 13
+      }
+    },
+    "ship12": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 9,
+        "hour": 6,
+        "minute": 3,
+        "second": 39
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 13,
+        "minutes": 29,
+        "seconds": 34
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 9,
+        "hour": 19,
+        "minute": 33,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 8,
+        "hours": 9,
+        "minutes": 42,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 18,
+        "hour": 5,
+        "minute": 15,
+        "second": 13
+      }
+    },
+    "ship64": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 10,
+        "hour": 2,
+        "minute": 14,
+        "second": 35
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 10,
+        "hour": 2,
+        "minute": 15,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 21,
+        "minutes": 58,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 11,
+        "hour": 0,
+        "minute": 13,
+        "second": 13
+      }
+    },
+    "ship41": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 10,
+        "hour": 3,
+        "minute": 31,
+        "second": 37
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 19,
+        "minutes": 53,
+        "seconds": 36
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 11,
+        "hour": 23,
+        "minute": 25,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 5,
+        "hours": 21,
+        "minutes": 37,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 21,
+        "minute": 2,
+        "second": 13
+      }
+    },
+    "ship54": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 11,
+        "hour": 6,
+        "minute": 56,
+        "second": 16
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 57
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 11,
+        "hour": 6,
+        "minute": 57,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 14,
+        "minutes": 11,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 11,
+        "hour": 21,
+        "minute": 8,
+        "second": 13
+      }
+    },
+    "ship33": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 11,
+        "hour": 19,
+        "minute": 48,
+        "second": 32
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 11,
+        "hour": 19,
+        "minute": 49,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 6,
+        "minutes": 34,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 13,
+        "hour": 2,
+        "minute": 23,
+        "second": 13
+      }
+    },
+    "ship10": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 11,
+        "hour": 11,
+        "minute": 52,
+        "second": 44
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 11,
+        "hour": 11,
+        "minute": 53,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 18,
+        "minutes": 12,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 12,
+        "hour": 6,
+        "minute": 5,
+        "second": 13
+      }
+    },
+    "ship4": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 12,
+        "hour": 19,
+        "minute": 8,
+        "second": 54
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 9,
+        "minutes": 49,
+        "seconds": 19
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 13,
+        "hour": 4,
+        "minute": 58,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 3,
+        "hours": 7,
+        "minutes": 37,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 16,
+        "hour": 12,
+        "minute": 35,
+        "second": 13
+      }
+    },
+    "ship14": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 13,
+        "hour": 12,
+        "minute": 43,
+        "second": 13
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 13,
+        "hour": 12,
+        "minute": 43,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 6,
+        "hours": 3,
+        "minutes": 25,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 19,
+        "hour": 16,
+        "minute": 8,
+        "second": 13
+      }
+    },
+    "ship45": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 13,
+        "hour": 14,
+        "minute": 6,
+        "second": 31
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 13,
+        "hour": 14,
+        "minute": 7,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 8,
+        "minutes": 51,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 14,
+        "hour": 22,
+        "minute": 58,
+        "second": 13
+      }
+    },
+    "ship57": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 13,
+        "hour": 16,
+        "minute": 54,
+        "second": 34
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 13,
+        "hour": 16,
+        "minute": 55,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 19,
+        "minutes": 28,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 15,
+        "hour": 12,
+        "minute": 23,
+        "second": 13
+      }
+    },
+    "ship13": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 13,
+        "hour": 14,
+        "minute": 9,
+        "second": 39
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 13,
+        "hour": 14,
+        "minute": 10,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 3,
+        "hours": 9,
+        "minutes": 42,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 16,
+        "hour": 23,
+        "minute": 52,
+        "second": 13
+      }
+    },
+    "ship15": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 14,
+        "hour": 5,
+        "minute": 12,
+        "second": 34
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 14,
+        "hour": 5,
+        "minute": 13,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 8,
+        "minutes": 39,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 15,
+        "hour": 13,
+        "minute": 52,
+        "second": 13
+      }
+    },
+    "ship46": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 14,
+        "hour": 7,
+        "minute": 9,
+        "second": 47
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 14,
+        "hour": 7,
+        "minute": 10,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 3,
+        "hours": 19,
+        "minutes": 11,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 18,
+        "hour": 2,
+        "minute": 21,
+        "second": 13
+      }
+    },
+    "ship2": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 14,
+        "hour": 12,
+        "minute": 0,
+        "second": 27
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 2,
+        "hours": 2,
+        "minutes": 47,
+        "seconds": 46
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 16,
+        "hour": 14,
+        "minute": 48,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 22,
+        "minutes": 4,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 18,
+        "hour": 12,
+        "minute": 52,
+        "second": 13
+      }
+    },
+    "ship66": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 14,
+        "hour": 20,
+        "minute": 25,
+        "second": 37
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 2,
+        "hours": 6,
+        "minutes": 58,
+        "seconds": 36
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 3,
+        "minute": 24,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 19,
+        "minutes": 21,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 22,
+        "minute": 45,
+        "second": 13
+      }
+    },
+    "ship0": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 14,
+        "hour": 23,
+        "minute": 40,
+        "second": 25
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 14,
+        "hour": 23,
+        "minute": 41,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 20,
+        "minutes": 35,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 15,
+        "hour": 20,
+        "minute": 16,
+        "second": 13
+      }
+    },
+    "ship65": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 14,
+        "hour": 15,
+        "minute": 58,
+        "second": 53
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 14,
+        "hour": 15,
+        "minute": 59,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 14,
+        "minutes": 51,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 15,
+        "hour": 6,
+        "minute": 50,
+        "second": 13
+      }
+    },
+    "ship7": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 15,
+        "hour": 23,
+        "minute": 45,
+        "second": 33
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 40
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 15,
+        "hour": 23,
+        "minute": 46,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 7,
+        "hours": 12,
+        "minutes": 36,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 23,
+        "hour": 12,
+        "minute": 22,
+        "second": 13
+      }
+    },
+    "ship39": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 15,
+        "hour": 18,
+        "minute": 21,
+        "second": 22
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 15,
+        "hour": 18,
+        "minute": 22,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 5,
+        "hours": 13,
+        "minutes": 22,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 21,
+        "hour": 7,
+        "minute": 44,
+        "second": 13
+      }
+    },
+    "ship22": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 16,
+        "hour": 2,
+        "minute": 56,
+        "second": 14
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 59
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 16,
+        "hour": 2,
+        "minute": 57,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 4,
+        "minutes": 43,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 7,
+        "minute": 40,
+        "second": 13
+      }
+    },
+    "ship43": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 16,
+        "hour": 3,
+        "minute": 23,
+        "second": 24
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 3,
+        "minutes": 40,
+        "seconds": 49
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 7,
+        "minute": 4,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 3,
+        "hours": 21,
+        "minutes": 40,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 21,
+        "hour": 4,
+        "minute": 44,
+        "second": 13
+      }
+    },
+    "ship11": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 16,
+        "hour": 6,
+        "minute": 15,
+        "second": 42
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 6,
+        "minutes": 21,
+        "seconds": 31
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 12,
+        "minute": 37,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 17,
+        "minutes": 19,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 19,
+        "hour": 5,
+        "minute": 56,
+        "second": 13
+      }
+    },
+    "ship23": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 16,
+        "hour": 23,
+        "minute": 42,
+        "second": 1
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 3,
+        "minutes": 15,
+        "seconds": 12
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 18,
+        "hour": 2,
+        "minute": 57,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 2,
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 20,
+        "hour": 4,
+        "minute": 29,
+        "second": 13
+      }
+    },
+    "ship37": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 8,
+        "minute": 41,
+        "second": 50
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 8,
+        "minute": 42,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 3,
+        "minutes": 58,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 18,
+        "hour": 12,
+        "minute": 40,
+        "second": 13
+      }
+    },
+    "ship69": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 22,
+        "minute": 40,
+        "second": 49
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 22,
+        "minute": 41,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 5,
+        "minutes": 19,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 19,
+        "hour": 4,
+        "minute": 0,
+        "second": 13
+      }
+    },
+    "ship16": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 2,
+        "minute": 49,
+        "second": 56
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 2,
+        "minute": 50,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 14,
+        "minutes": 57,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 17,
+        "minute": 47,
+        "second": 13
+      }
+    },
+    "ship18": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 17,
+        "hour": 22,
+        "minute": 36,
+        "second": 36
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 16,
+        "minutes": 15,
+        "seconds": 37
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 18,
+        "hour": 14,
+        "minute": 52,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 2,
+        "hours": 13,
+        "minutes": 18,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 21,
+        "hour": 4,
+        "minute": 10,
+        "second": 13
+      }
+    },
+    "ship29": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 18,
+        "hour": 22,
+        "minute": 7,
+        "second": 37
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 23,
+        "minutes": 23,
+        "seconds": 36
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 19,
+        "hour": 21,
+        "minute": 31,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 3,
+        "hours": 7,
+        "minutes": 11,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 23,
+        "hour": 4,
+        "minute": 42,
+        "second": 13
+      }
+    },
+    "ship53": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 18,
+        "hour": 17,
+        "minute": 55,
+        "second": 7
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 7,
+        "minutes": 17,
+        "seconds": 6
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 19,
+        "hour": 1,
+        "minute": 12,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 3,
+        "hours": 22,
+        "minutes": 47,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 22,
+        "hour": 23,
+        "minute": 59,
+        "second": 13
+      }
+    },
+    "ship58": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 18,
+        "hour": 17,
+        "minute": 32,
+        "second": 0
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 18,
+        "hour": 17,
+        "minute": 32,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 6,
+        "hours": 22,
+        "minutes": 6,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 25,
+        "hour": 15,
+        "minute": 38,
+        "second": 13
+      }
+    },
+    "ship26": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 18,
+        "hour": 19,
+        "minute": 40,
+        "second": 57
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 18,
+        "hour": 19,
+        "minute": 41,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 6,
+        "minutes": 58,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 20,
+        "hour": 2,
+        "minute": 39,
+        "second": 13
+      }
+    },
+    "ship42": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 19,
+        "hour": 12,
+        "minute": 3,
+        "second": 3
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 19,
+        "hour": 12,
+        "minute": 3,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 20,
+        "minutes": 14,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 20,
+        "hour": 8,
+        "minute": 17,
+        "second": 13
+      }
+    },
+    "ship52": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 19,
+        "hour": 16,
+        "minute": 6,
+        "second": 35
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 19,
+        "hour": 16,
+        "minute": 7,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 8,
+        "minutes": 56,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 21,
+        "hour": 1,
+        "minute": 3,
+        "second": 13
+      }
+    },
+    "ship56": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 20,
+        "hour": 2,
+        "minute": 10,
+        "second": 47
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 9,
+        "minutes": 38,
+        "seconds": 26
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 20,
+        "hour": 11,
+        "minute": 49,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 6,
+        "hours": 3,
+        "minutes": 6,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 26,
+        "hour": 14,
+        "minute": 55,
+        "second": 13
+      }
+    },
+    "ship40": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 21,
+        "hour": 11,
+        "minute": 13,
+        "second": 21
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 52
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 21,
+        "hour": 11,
+        "minute": 14,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 7,
+        "minutes": 43,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 21,
+        "hour": 18,
+        "minute": 57,
+        "second": 13
+      }
+    },
+    "ship9": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 21,
+        "hour": 19,
+        "minute": 57,
+        "second": 3
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 21,
+        "hour": 19,
+        "minute": 57,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 2,
+        "hours": 19,
+        "minutes": 50,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 24,
+        "hour": 15,
+        "minute": 47,
+        "second": 13
+      }
+    },
+    "ship35": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 23,
+        "hour": 10,
+        "minute": 56,
+        "second": 10
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 23,
+        "hour": 10,
+        "minute": 56,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 23,
+        "minutes": 50,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 24,
+        "hour": 10,
+        "minute": 46,
+        "second": 13
+      }
+    },
+    "ship60": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 24,
+        "hour": 21,
+        "minute": 27,
+        "second": 45
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 24,
+        "hour": 21,
+        "minute": 28,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 7,
+        "hours": 6,
+        "minutes": 27,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 5,
+        "day": 2,
+        "hour": 3,
+        "minute": 55,
+        "second": 13
+      }
+    },
+    "ship63": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 24,
+        "hour": 16,
+        "minute": 27,
+        "second": 43
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 24,
+        "hour": 16,
+        "minute": 28,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 23,
+        "minutes": 46,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 26,
+        "hour": 16,
+        "minute": 14,
+        "second": 13
+      }
+    },
+    "ship17": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 24,
+        "hour": 11,
+        "minute": 37,
+        "second": 56
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 24,
+        "hour": 11,
+        "minute": 38,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 6,
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 30,
+        "hour": 12,
+        "minute": 7,
+        "second": 13
+      }
+    },
+    "ship30": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 25,
+        "hour": 5,
+        "minute": 44,
+        "second": 14
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 59
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 25,
+        "hour": 5,
+        "minute": 45,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 5,
+        "hours": 21,
+        "minutes": 33,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 5,
+        "day": 1,
+        "hour": 3,
+        "minute": 18,
+        "second": 13
+      }
+    },
+    "ship50": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 25,
+        "hour": 23,
+        "minute": 10,
+        "second": 5
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 3,
+        "minutes": 31,
+        "seconds": 8
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 26,
+        "hour": 2,
+        "minute": 41,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 22,
+        "minutes": 12,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 28,
+        "hour": 0,
+        "minute": 53,
+        "second": 13
+      }
+    },
+    "ship31": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 26,
+        "hour": 9,
+        "minute": 40,
+        "second": 30
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 26,
+        "hour": 9,
+        "minute": 41,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 14,
+        "minutes": 15,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 26,
+        "hour": 23,
+        "minute": 56,
+        "second": 13
+      }
+    },
+    "ship67": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 27,
+        "hour": 19,
+        "minute": 25,
+        "second": 50
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 27,
+        "hour": 19,
+        "minute": 26,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 2,
+        "minutes": 47,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 28,
+        "hour": 22,
+        "minute": 13,
+        "second": 13
+      }
+    },
+    "ship62": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 27,
+        "hour": 12,
+        "minute": 54,
+        "second": 24
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 27,
+        "hour": 12,
+        "minute": 55,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 1,
+        "hours": 14,
+        "minutes": 21,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 29,
+        "hour": 3,
+        "minute": 16,
+        "second": 13
+      }
+    },
+    "ship48": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 28,
+        "hour": 5,
+        "minute": 17,
+        "second": 37
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 28,
+        "hour": 5,
+        "minute": 18,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 5,
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 5,
+        "day": 3,
+        "hour": 6,
+        "minute": 51,
+        "second": 13
+      }
+    },
+    "ship27": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 28,
+        "hour": 17,
+        "minute": 16,
+        "second": 2
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 2,
+        "minutes": 33,
+        "seconds": 11
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 28,
+        "hour": 19,
+        "minute": 49,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 18,
+        "minutes": 43,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 29,
+        "hour": 14,
+        "minute": 32,
+        "second": 13
+      }
+    },
+    "ship34": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 28,
+        "hour": 10,
+        "minute": 47,
+        "second": 41
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 32
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 28,
+        "hour": 10,
+        "minute": 48,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 3,
+        "hours": 11,
+        "minutes": 24,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 5,
+        "day": 1,
+        "hour": 22,
+        "minute": 12,
+        "second": 13
+      }
+    },
+    "ship28": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 28,
+        "hour": 17,
+        "minute": 52,
+        "second": 52
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 16,
+        "minutes": 53,
+        "seconds": 21
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 29,
+        "hour": 10,
+        "minute": 46,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 2,
+        "hours": 4,
+        "minutes": 9,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 5,
+        "day": 1,
+        "hour": 14,
+        "minute": 55,
+        "second": 13
+      }
+    },
+    "ship36": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 28,
+        "hour": 8,
+        "minute": 30,
+        "second": 33
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 40
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 28,
+        "hour": 8,
+        "minute": 31,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 7,
+        "hours": 3,
+        "minutes": 9,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 5,
+        "day": 5,
+        "hour": 11,
+        "minute": 40,
+        "second": 13
+      }
+    },
+    "ship38": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 29,
+        "hour": 17,
+        "minute": 9,
+        "second": 50
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 29,
+        "hour": 17,
+        "minute": 10,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 5,
+        "hours": 23,
+        "minutes": 35,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 5,
+        "day": 5,
+        "hour": 16,
+        "minute": 45,
+        "second": 13
+      }
+    },
+    "ship47": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 30,
+        "hour": 8,
+        "minute": 2,
+        "second": 2
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 30,
+        "hour": 8,
+        "minute": 2,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 14,
+        "minutes": 57,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 4,
+        "day": 30,
+        "hour": 22,
+        "minute": 59,
+        "second": 13
+      }
+    },
+    "ship20": {
+      "arrivalDate": {
+        "month": 4,
+        "day": 30,
+        "hour": 16,
+        "minute": 35,
+        "second": 59
+      },
+      "waitingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14
+      },
+      "beginUnloadingDate": {
+        "month": 4,
+        "day": 30,
+        "hour": 16,
+        "minute": 36,
+        "second": 13
+      },
+      "unloadingTime": {
+        "months": 0,
+        "days": 0,
+        "hours": 14,
+        "minutes": 27,
+        "seconds": 0
+      },
+      "endUnloadingDate": {
+        "month": 5,
+        "day": 1,
+        "hour": 7,
+        "minute": 3,
+        "second": 13
+      }
+    }
+  },
+  "countOfUnloadedShips": 70,
+  "averageQueueLength": 8.0,
+  "averageWaitingTime": {
+    "months": 0,
+    "days": 0,
+    "hours": 4,
+    "minutes": 56,
+    "seconds": 40
+  },
+  "maxUnloadingDelay": 1413,
+  "averageUnloadingDelay": 820.7571428571429,
+  "totalFine": 29400.0,
+  "countOfBulkCranes": 4,
+  "countOfLiquidCranes": 9,
+  "countOfContainerCranes": 4
+}
